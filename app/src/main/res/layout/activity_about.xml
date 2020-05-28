@@ -32,7 +32,7 @@
                     android:layout_height="231dp"
                     android:background="#FFFFFF"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/tika" />
+                    android:src="@drawable/dila" />
             </androidx.cardview.widget.CardView>
         </LinearLayout>
         <LinearLayout
@@ -47,7 +47,7 @@
                 android:textStyle="bold"
                 android:textSize="16dp"
                 android:textAlignment="center"
-                android:text="Atma Atika \n13020170080 \nC1"/>
+                android:text="Nurfadilla \n13020170090 \nC1"/>
 
         </LinearLayout>
     </LinearLayout>
